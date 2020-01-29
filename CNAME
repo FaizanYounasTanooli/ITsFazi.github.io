@@ -1,6 +1,1 @@
 insideitopia.me
-$ dig insideitopia.me +nostats +nocomments +nocmd
-  > ;insideitopia.me.                     IN      A
-  > insideitopia.me.              3592    IN      CNAME   ITsFazi.github.io.
-  > ITsFazi.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
-  >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
