@@ -1,3 +1,4 @@
+insideitopia.me
 $ dig insideitopia.me +nostats +nocomments +nocmd
   > ;insideitopia.me.                     IN      A
   > insideitopia.me.              3592    IN      CNAME   ITsFazi.github.io.
